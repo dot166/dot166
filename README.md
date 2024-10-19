@@ -6,7 +6,7 @@
 
 ### WARNING! This README file does not get updated very often! a more uptodate list is on [https://dot166.github.io/projects/](https://dot166.github.io/projects/)
 
-- ** jOS Android ROM (custom fork of [GrapheneOS](https://grapheneos.org))
+- jOS Android ROM (custom fork of [GrapheneOS](https://grapheneos.org))
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dot166&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
